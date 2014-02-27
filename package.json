@@ -1,0 +1,15 @@
+{
+  "name": "gulp-markdox2",
+  "version": "1.9.102",
+  "description": "Deprecated: this project has been merged into gulp-markdox.",
+  "keywords": [
+    "gulp-markdox"
+  ],
+  "author": {
+    "name": "Maciej Chałapuk",
+    "email": "maciej@chalapuk.pl",
+    "url": "https://github.com/muroc"
+  },
+  "repository": "muroc/gulp-markdox2",
+  "license": "MIT"
+}
