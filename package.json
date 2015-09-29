@@ -1,20 +1,21 @@
 {
-  "name": "gulp-markdox",
-  "version": "0.1.1",
-  "description": "Generate Markdown documentation with markdox",
+  "name": "gulp-markdox2",
+  "version": "1.9.9",
+  "description": "Generate Markdown documentation with markdox (maintained version)",
   "keywords": [
     "gulpplugin",
     "markdox",
     "markdown",
     "documentation",
-    "gulp"
+    "gulp",
+    "ejs"
   ],
   "author": {
-    "name": "Guilherme Berger",
-    "email": "guilherme.berger@gmail.com",
-    "url": "https://github.com/gberger"
+    "name": "Maciej Chałapuk",
+    "email": "maciej@chalapuk.pl",
+    "url": "https://github.com/muroc"
   },
-  "repository": "gberger/gulp-markdox",
+  "repository": "webfront-toolkit/gulp-markdox2",
   "scripts": {
     "test": "mocha"
   },
@@ -40,3 +41,4 @@
   },
   "license": "MIT"
 }
+
