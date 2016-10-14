@@ -1,6 +1,6 @@
 {
   "name": "gulp-markdox2",
-  "version": "1.9.99",
+  "version": "1.9.100",
   "description": "Generate Markdown documentation with markdox (maintained version)",
   "keywords": [
     "gulpplugin",
